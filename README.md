@@ -47,13 +47,14 @@ In certain organizations, running EC2 instances all the day isn't necessary—th
 
 ## Step 3 :
 ## Creating the Lambda functions :
-    Now we create two lambda functions one for start and other for stop and attach to each existing Role
+
+   Now we create two lambda functions one for start and other for stop and attach to each existing Role
 
  ![image](https://github.com/Ahmed1337a/Automate-start-stop-EC2/blob/d0346bb1ef70746d51de95ad384143c63d8d425f/Images/14.png)
  
  ![image](https://github.com/Ahmed1337a/Automate-start-stop-EC2/blob/d0346bb1ef70746d51de95ad384143c63d8d425f/Images/15.png)
 
-  now we make a deploy and test to make sure that the code and all things is right
+  Now we make a deploy and test to make sure that the code and all things is right
   
   ![image](https://github.com/Ahmed1337a/Automate-start-stop-EC2/blob/d0346bb1ef70746d51de95ad384143c63d8d425f/Images/16.png)
 
